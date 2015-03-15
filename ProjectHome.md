@@ -1,0 +1,1 @@
+Plugin for Skype to let it talk to growl
